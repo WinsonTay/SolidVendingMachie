@@ -1,1 +1,1 @@
-# SolidVendingMachie
+# SolidVendingMachine
