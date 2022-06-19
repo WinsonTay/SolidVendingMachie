@@ -1,0 +1,15 @@
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\bin\Debug\net6.0\SolidVendingMachine.exe
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\bin\Debug\net6.0\SolidVendingMachine.deps.json
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\bin\Debug\net6.0\SolidVendingMachine.runtimeconfig.json
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\bin\Debug\net6.0\SolidVendingMachine.dll
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\bin\Debug\net6.0\SolidVendingMachine.pdb
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\obj\Debug\net6.0\SolidVendingMachine.csproj.AssemblyReference.cache
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\obj\Debug\net6.0\SolidVendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\obj\Debug\net6.0\SolidVendingMachine.AssemblyInfoInputs.cache
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\obj\Debug\net6.0\SolidVendingMachine.AssemblyInfo.cs
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\obj\Debug\net6.0\SolidVendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\obj\Debug\net6.0\SolidVendingMachine.dll
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\obj\Debug\net6.0\refint\SolidVendingMachine.dll
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\obj\Debug\net6.0\SolidVendingMachine.pdb
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\obj\Debug\net6.0\SolidVendingMachine.genruntimeconfig.cache
+C:\Users\DMS-8\Desktop\IIOT Projects\DMS\SolidVendingMachine\obj\Debug\net6.0\ref\SolidVendingMachine.dll
